@@ -14,7 +14,7 @@
     "api",
     "postgresql"
   ],
-  "author": "bezkoder",
+  "author": "vineet verma",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
